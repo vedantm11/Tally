@@ -1,0 +1,63 @@
+{
+ "file": "chase_checking_2026-01.pdf",
+ "meta": {
+  "issuer": "Chase",
+  "kind": "bank",
+  "last4": "3017",
+  "start": "2025-12-06",
+  "end": "2026-01-05",
+  "balances": {
+   "open": 341208,
+   "close": 446550
+  }
+ },
+ "count": 9,
+ "sum": -105342,
+ "txns": [
+  {
+   "date": "2025-12-08",
+   "desc": "Card Purchase 12/07 Trader Joe S #127 Irvine CA Card 9921",
+   "amt": 3120
+  },
+  {
+   "date": "2025-12-15",
+   "desc": "Payroll Acme Corp PPD ID: 1234567890",
+   "amt": -212500
+  },
+  {
+   "date": "2025-12-18",
+   "desc": "Chase Credit Crd Autopay PPD ID: 4760039224",
+   "amt": 120355
+  },
+  {
+   "date": "2025-12-20",
+   "desc": "Zelle Payment To Sam Rivera Jpm99B7Xq2C1",
+   "amt": 95000
+  },
+  {
+   "date": "2025-12-22",
+   "desc": "Online Transfer To Sav ...1234 Transaction#: 18822734",
+   "amt": 20000
+  },
+  {
+   "date": "2025-12-27",
+   "desc": "Bilt Card Payment Web ID: 9876543210",
+   "amt": 61240
+  },
+  {
+   "date": "2025-12-31",
+   "desc": "Payroll Acme Corp PPD ID: 1234567890",
+   "amt": -212500
+  },
+  {
+   "date": "2026-01-02",
+   "desc": "Card Purchase With Pin 01/02 Costco Whse #0479 Laguna Niguel CA Card 9921",
+   "amt": 18744
+  },
+  {
+   "date": "2026-01-04",
+   "desc": "Recurring Card Purchase 01/03 Spotify USA 877-778-1161 NY Card 9921",
+   "amt": 1199
+  }
+ ]
+}

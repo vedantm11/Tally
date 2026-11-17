@@ -1,0 +1,58 @@
+{
+ "file": "bilt_card_export.csv",
+ "meta": {
+  "issuer": "Bilt",
+  "kind": "card",
+  "last4": "7782",
+  "start": "2026-07-28",
+  "end": "2026-10-01",
+  "balances": {
+   "open": null,
+   "close": null
+  }
+ },
+ "count": 8,
+ "sum": 204976,
+ "txns": [
+  {
+   "date": "2026-07-28",
+   "desc": "BPS*BILT HOUSING 1 Main St New York",
+   "amt": 200000
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "RALPHS #0080 17605 HARVARD AVE IRVINE",
+   "amt": 688
+  },
+  {
+   "date": "2026-08-07",
+   "desc": "TST*SHAKE SHACK CRYSTA7703 East Coast",
+   "amt": 9712
+  },
+  {
+   "date": "2026-08-15",
+   "desc": "PAYMENT - THANK YOU",
+   "amt": -210400
+  },
+  {
+   "date": "2026-09-02",
+   "desc": "TRADER JOE S #113 3329 S BRISTOL ST",
+   "amt": 2218
+  },
+  {
+   "date": "2026-09-11",
+   "desc": "CLOUDFLARE 101 Townsend Street SAN",
+   "amt": 3446
+  },
+  {
+   "date": "2026-09-20",
+   "desc": "Refund: RALPHS #0080",
+   "amt": -688
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "BPS*BILT HOUSING 1 Main St New York",
+   "amt": 200000
+  }
+ ]
+}

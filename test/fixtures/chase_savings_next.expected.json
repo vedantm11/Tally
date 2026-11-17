@@ -1,0 +1,43 @@
+{
+ "file": "chase_savings_next.qfx",
+ "meta": {
+  "issuer": "Chase",
+  "kind": "bank",
+  "last4": "1234",
+  "start": "2026-10-10",
+  "end": "2026-11-30",
+  "balances": {
+   "open": null,
+   "close": 165470
+  }
+ },
+ "count": 5,
+ "sum": -45215,
+ "txns": [
+  {
+   "date": "2026-10-15",
+   "desc": "Online Transfer From Chk ...3017",
+   "amt": -30000
+  },
+  {
+   "date": "2026-10-31",
+   "desc": "Interest Payment",
+   "amt": -98
+  },
+  {
+   "date": "2026-11-12",
+   "desc": "Online Transfer To Chk ...3017",
+   "amt": 10000
+  },
+  {
+   "date": "2026-11-20",
+   "desc": "Online Transfer From Chk ...3017",
+   "amt": -25000
+  },
+  {
+   "date": "2026-11-30",
+   "desc": "Interest Payment",
+   "amt": -117
+  }
+ ]
+}

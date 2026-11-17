@@ -1,0 +1,58 @@
+{
+ "file": "chase_checking_export.csv",
+ "meta": {
+  "issuer": "Chase",
+  "kind": "bank",
+  "last4": null,
+  "start": "2026-08-05",
+  "end": "2026-10-09",
+  "balances": {
+   "open": 341208,
+   "close": 653307
+  }
+ },
+ "count": 8,
+ "sum": -312099,
+ "txns": [
+  {
+   "date": "2026-08-05",
+   "desc": "ACH Debit TRADER JOE S #127 IRVINE CA",
+   "amt": 4218
+  },
+  {
+   "date": "2026-08-14",
+   "desc": "PAYROLL ACME CORP PPD ID: 1234567890",
+   "amt": -212500
+  },
+  {
+   "date": "2026-08-22",
+   "desc": "Online Transfer To Sav ...1234",
+   "amt": 20000
+  },
+  {
+   "date": "2026-09-03",
+   "desc": "CHASE CREDIT CRD AUTOPAY PPD ID: 4760039224",
+   "amt": 61240
+  },
+  {
+   "date": "2026-09-15",
+   "desc": "PAYROLL ACME CORP PPD ID: 1234567890",
+   "amt": -212500
+  },
+  {
+   "date": "2026-09-28",
+   "desc": "Zelle Payment To Sam Rivera Jpm99B7Xq2C1",
+   "amt": 7500
+  },
+  {
+   "date": "2026-10-02",
+   "desc": "COSTCO WHSE #0479 LAGUNA NIGUEL CA",
+   "amt": 18744
+  },
+  {
+   "date": "2026-10-09",
+   "desc": "Recurring Card Purchase SPOTIFY USA 877-778-1161",
+   "amt": 1199
+  }
+ ]
+}

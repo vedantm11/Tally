@@ -1,0 +1,8 @@
+node_modules/
+test/.shots/
+.venv/
+# Never commit real statements. Put them here for local testing only.
+private/
+*.real.pdf
+*.real.csv
+*.tally

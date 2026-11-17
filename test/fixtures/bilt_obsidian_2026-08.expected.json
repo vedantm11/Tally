@@ -1,0 +1,63 @@
+{
+ "file": "bilt_obsidian_2026-08.pdf",
+ "meta": {
+  "issuer": "Bilt",
+  "kind": "card",
+  "last4": null,
+  "start": "2026-07-21",
+  "end": "2026-08-20",
+  "balances": {
+   "open": 10000,
+   "close": null
+  }
+ },
+ "count": 9,
+ "sum": 24248,
+ "txns": [
+  {
+   "date": "2026-07-22",
+   "desc": "PAYMENT",
+   "amt": -10000
+  },
+  {
+   "date": "2026-07-28",
+   "desc": "BILT RENT CHARGE ADJUSTMENT",
+   "amt": -200000
+  },
+  {
+   "date": "2026-07-26",
+   "desc": "GOJUMP OCEANSIDE 480 AIRPORT ROAD",
+   "amt": 21630
+  },
+  {
+   "date": "2026-07-28",
+   "desc": "BPS*BILT HOUSING 1 Main St New York",
+   "amt": 200000
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "RALPHS #0080 17605 HARVARD AVE IRVINE 92614",
+   "amt": 688
+  },
+  {
+   "date": "2026-08-07",
+   "desc": "TST*SHAKE SHACK CRYSTA7703 East Coast Hwy",
+   "amt": 9712
+  },
+  {
+   "date": "2026-08-10",
+   "desc": "TRADER JOE S #113 3329 S BRISTOL ST SANTA ANA",
+   "amt": 2218
+  },
+  {
+   "date": "2026-08-14",
+   "desc": "CLOUDFLARE 101 Townsend Street SAN",
+   "amt": -3446
+  },
+  {
+   "date": "2026-07-30",
+   "desc": "CLOUDFLARE 101 Townsend Street SAN",
+   "amt": 3446
+  }
+ ]
+}

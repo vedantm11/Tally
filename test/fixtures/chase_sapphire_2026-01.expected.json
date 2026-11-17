@@ -1,0 +1,83 @@
+{
+ "file": "chase_sapphire_2026-01.pdf",
+ "meta": {
+  "issuer": "Chase",
+  "kind": "card",
+  "last4": "4417",
+  "start": "2025-12-06",
+  "end": "2026-01-05",
+  "balances": {
+   "open": 120355,
+   "close": 55627
+  }
+ },
+ "count": 13,
+ "sum": -64728,
+ "txns": [
+  {
+   "date": "2025-12-18",
+   "desc": "Payment Thank You-Mobile",
+   "amt": -120355
+  },
+  {
+   "date": "2025-12-22",
+   "desc": "AMAZON MKTPL*ZX4RT1 Amzn.com/bill WA",
+   "amt": -2499
+  },
+  {
+   "date": "2025-12-07",
+   "desc": "TRADER JOE S #127 IRVINE CA",
+   "amt": 6412
+  },
+  {
+   "date": "2025-12-09",
+   "desc": "SQ *BLUE BOTTLE COFFEE Los Angeles CA",
+   "amt": 875
+  },
+  {
+   "date": "2025-12-11",
+   "desc": "NETFLIX.COM NETFLIX.COM CA",
+   "amt": 1549
+  },
+  {
+   "date": "2025-12-14",
+   "desc": "SHELL OIL 57444212 RANCHO SANTA MA CA",
+   "amt": 5288
+  },
+  {
+   "date": "2025-12-14",
+   "desc": "SHELL OIL 57444212 RANCHO SANTA MA CA",
+   "amt": 5288
+  },
+  {
+   "date": "2025-12-20",
+   "desc": "DOORDASH*SUSHI ROKU SAN FRANCISCO CA",
+   "amt": 4630
+  },
+  {
+   "date": "2025-12-28",
+   "desc": "UBER *TRIP HELP.UBER.COM NLD",
+   "amt": 1873
+  },
+  {
+   "date": "2025-12-30",
+   "desc": "AMAZON MKTPL*BB71Q0 Amzn.com/bill WA",
+   "amt": 8999
+  },
+  {
+   "date": "2026-01-02",
+   "desc": "WHOLEFDS LAG 10234 LAGUNA NIGUEL CA",
+   "amt": 11237
+  },
+  {
+   "date": "2026-01-03",
+   "desc": "SOUTHERN CALIFORNIA EDISON 800-655-4555 CA",
+   "amt": 9811
+  },
+  {
+   "date": "2026-01-04",
+   "desc": "IN N OUT BURGER 211 MISSION VIEJO CA",
+   "amt": 2164
+  }
+ ]
+}

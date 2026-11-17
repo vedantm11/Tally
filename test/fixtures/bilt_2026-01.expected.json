@@ -1,0 +1,53 @@
+{
+ "file": "bilt_2026-01.pdf",
+ "meta": {
+  "issuer": "Bilt",
+  "kind": "card",
+  "last4": "7782",
+  "start": "2025-12-03",
+  "end": "2026-01-02",
+  "balances": {
+   "open": 61240,
+   "close": 290973
+  }
+ },
+ "count": 7,
+ "sum": 229733,
+ "txns": [
+  {
+   "date": "2025-12-04",
+   "desc": "BPS*BILT RENT 888-888-0000 NY",
+   "amt": 245000
+  },
+  {
+   "date": "2025-12-06",
+   "desc": "SWEETGREEN IRVINE IRVINE CA",
+   "amt": 1695
+  },
+  {
+   "date": "2025-12-12",
+   "desc": "LYFT *RIDE SUN 12AM SAN FRANCISCO CA",
+   "amt": 2240
+  },
+  {
+   "date": "2025-12-27",
+   "desc": "ONLINE PAYMENT THANK YOU",
+   "amt": -61240
+  },
+  {
+   "date": "2025-12-29",
+   "desc": "TARGET 00012345 MISSION VIEJO CA",
+   "amt": 4377
+  },
+  {
+   "date": "2025-12-31",
+   "desc": "TARGET 00012345 MISSION VIEJO CA",
+   "amt": -1299
+  },
+  {
+   "date": "2026-01-01",
+   "desc": "DELTA AIR LINES ATLANTA GA",
+   "amt": 38960
+  }
+ ]
+}

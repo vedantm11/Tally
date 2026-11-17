@@ -1,0 +1,17 @@
+{
+  "name": "tally",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Private, on-device expense tracker: import bank/card statements, categorize, split.",
+  "scripts": {
+    "build": "node build.mjs",
+    "fixtures": "PY=$(test -x .venv/bin/python && echo .venv/bin/python || echo python3); $PY test/gen_statements.py test/fixtures && $PY test/gen_bilt_new.py test/fixtures/bilt_obsidian_2026-08.pdf",
+    "test:parse": "node test/parse_test.mjs",
+    "test:e2e": "npm run build && node test/e2e.mjs",
+    "test": "npm run test:parse && npm run test:e2e"
+  },
+  "devDependencies": {
+    "pdfjs-dist": "6.2.108",
+    "playwright": "^1.56.0"
+  }
+}

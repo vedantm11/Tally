@@ -1,0 +1,43 @@
+{
+ "file": "bilt_cardless_2026-02.pdf",
+ "meta": {
+  "issuer": "Bilt",
+  "kind": "card",
+  "last4": "7782",
+  "start": null,
+  "end": "2026-02-02",
+  "balances": {
+   "open": 61240,
+   "close": 249420
+  }
+ },
+ "count": 5,
+ "sum": 188180,
+ "txns": [
+  {
+   "date": "2026-01-05",
+   "desc": "Bilt Rent - Example Apartments",
+   "amt": 245000
+  },
+  {
+   "date": "2026-01-09",
+   "desc": "Payment - Thank you",
+   "amt": -61240
+  },
+  {
+   "date": "2026-01-15",
+   "desc": "Ralphs #0123 Irvine CA",
+   "amt": 5321
+  },
+  {
+   "date": "2026-01-20",
+   "desc": "Apple.com/bill",
+   "amt": 299
+  },
+  {
+   "date": "2026-01-28",
+   "desc": "Refund: Ralphs #0123",
+   "amt": -1200
+  }
+ ]
+}
