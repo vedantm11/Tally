@@ -2,6 +2,7 @@
   "name": "tally",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "Private, on-device expense tracker: import bank/card statements, categorize, split.",
   "scripts": {
     "build": "node build.mjs",
